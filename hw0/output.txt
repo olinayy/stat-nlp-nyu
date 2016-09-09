@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Yang
+   last: Yang
+email: yy1742@nyu.edu
+leaderboard: Ernest_Hemingway
